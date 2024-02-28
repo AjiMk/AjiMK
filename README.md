@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**AjiMk/AjiMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/jaspergabriel/](https://www.linkedin.com/in/ajay-kumar-87a708223/)) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ajaymeledath007@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
+</div>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at [Phases](https://www.linkedin.com/company/phases/) as a senior software engineer
+- 🌱 I’m currently learning TypesScript and Node.js
+- 👯 I’m looking to collaborate on Node.js projects
+- 🤔 I’m looking for help with DSA and problem-solving
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I read the documentation pages
