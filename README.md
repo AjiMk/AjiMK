@@ -3,7 +3,7 @@
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/jaspergabriel/](https://www.linkedin.com/in/ajay-kumar-87a708223/)) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ajaymeledath007@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ajaymeledath007@gmail.com?subject=Hello%20AjayKumar,%20From%20Github)
 
 </div>
 
