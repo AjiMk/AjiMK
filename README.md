@@ -4,12 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Lead Engineer
 ------------------------
 
-With over seven years of experience in software engineering, I specialize in building scalable web applications and backend systems. My expertise spans across various technologies including Node.js, Python, PHP, TypeScript, and front-end frameworks like React.js and Vue.js. Passionate about contributing to the open-source community and constantly exploring new technologies to push the boundaries of what’s possible.
+With over eight years of experience in software engineering, I specialize in building scalable web applications and backend systems. My expertise spans across various technologies including Node.js, Python, PHP, TypeScript, and front-end frameworks like React.js and Vue.js. Passionate about contributing to the open-source community and constantly exploring new technologies to push the boundaries of what’s possible.
 
 * 🌍  I'm based in Kochi, Kerala
-* ✉️  You can contact me at [ajaymeledath007@gmail.com](mailto:ajaymeledath007@gmail.com)
-* 🧠  I'm learning AWS
-* 🤝  I'm open to collaborating on Node.js applications
 
 ### Skills
 
