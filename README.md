@@ -1,28 +1,27 @@
-# Hi there 👋 I'm Ajay
+# Hi, I'm Ajay 👋
 
-**Lead Engineer | Backend Engineer | Distributed Systems | Cloud & AI**
+Lead Engineer with over 8 years of experience building backend systems, APIs, and cloud-native applications.
 
-I've been building software for over 8 years, primarily focused on backend engineering, distributed systems, and cloud-native applications. I enjoy designing scalable APIs, solving infrastructure challenges, and building products that are reliable, maintainable, and easy to scale.
+Most of my work revolves around designing scalable services, integrating enterprise platforms, and building distributed systems that power production workloads. Recently, I've been exploring Agentic AI, platform engineering, and intelligent automation.
 
-Lately, I've been spending most of my time building AI-powered applications, experimenting with Agentic AI, and working on a Job Intelligence Platform that helps professionals discover international opportunities.
+A significant portion of my work is in private repositories, so I use GitHub to share side projects, experiments, reusable tools, and things I'm learning along the way.
 
-- 🌍 Based in Kochi, Kerala, India
+- 📍 Kochi, Kerala, India
 - 💼 Lead Engineer
-- 🚀 Interested in Backend Engineering, Platform Engineering, AI, and Distributed Systems
+- 🌱 Currently exploring Agentic AI, distributed systems, and platform engineering
 
 ---
 
-## 🚀 Currently Working On
+## What I'm Working On
 
-- 🤖 Agentic AI & AI-powered workflows
-- 🌍 Job Intelligence Platform
-- ⚡ Event-driven architectures
-- 🔍 Large-scale job scraping infrastructure
-- ☁️ Cloud-native backend services
+- Building a private AI-powered SaaS platform
+- Exploring Agentic AI and workflow automation
+- Designing event-driven backend systems
+- Building reusable developer tools and backend templates
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -40,17 +39,9 @@ Lately, I've been spending most of my time building AI-powered applications, exp
 <a href="https://nestjs.com/" target="_blank"><img src="https://nestjs.com/img/logo-small.svg" width="36" height="36" alt="NestJS"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express"/></a>
 <a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.simpleicons.org/django" width="36" height="36" alt="Django"/></a>
 </p>
 
-### Frontend
-
-<p align="left">
-<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/vuedotjs" width="36" height="36" alt="Vue.js"/></a>
-</p>
-
-### Cloud & DevOps
+### Cloud & Infrastructure
 
 <p align="left">
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.simpleicons.org/amazonaws" width="36" height="36" alt="AWS"/></a>
@@ -62,30 +53,29 @@ Lately, I've been spending most of my time building AI-powered applications, exp
 
 ### Databases & Messaging
 
-<p>
-
-**Databases**
-
-PostgreSQL • MongoDB • MySQL • Redis
-
-**Messaging**
-
-Kafka • RabbitMQ • BullMQ
-
-</p>
+- PostgreSQL
+- MongoDB
+- MySQL
+- Redis
+- Kafka
+- RabbitMQ
+- BullMQ
 
 ---
 
-## 📌 Featured Projects
+## Areas of Interest
 
-- 🚀 **Job Intelligence Platform** — AI-powered platform for international job search and career insights.
-- 🤖 **Agentic AI Experiments** — Exploring autonomous workflows and AI agents.
-- ⚡ **Distributed Job Scraper** — Queue-based scraping infrastructure using workers and proxies.
-- 🔗 **API Integrations** — Enterprise integrations with HubSpot, SAP Concur, Azure AD, QuickBooks, and more.
+- Backend Engineering
+- Distributed Systems
+- Event-Driven Architecture
+- Platform Engineering
+- API Design
+- Cloud Infrastructure
+- AI & Intelligent Automation
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="left">
 <a href="https://github.com/ajiMk">
@@ -99,7 +89,7 @@ Kafka • RabbitMQ • BullMQ
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajiMk&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" />
@@ -113,7 +103,3 @@ Kafka • RabbitMQ • BullMQ
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajiMk&hide_border=true&radius=8" />
 </p>
-
----
-
-> *I enjoy building software that solves real-world problems—whether that's designing scalable backend systems, automating workflows, or exploring how AI can make developers more productive.*
